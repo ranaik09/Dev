@@ -1,3 +1,5 @@
+[__TOC__]
+
 # About Me
 
 ## Dev Details
