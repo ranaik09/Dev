@@ -1,10 +1,39 @@
-
 # About Me
-[__TOC__]
 
-# Dev
-* Name: `**Ravesh Ashok Naik**`<br>
-* Qualification: `**Masters in Computer Scince and Applications**` <br>
-* Organization: `**NI is now part of Emerson**` <br>
-** Role: <strike>_Intern_<sub>(2017<sup>JUL</sup>-2018)</sub></strike>~~ --> <strike>_S/W Technician_<sub>(2018-2019)</sub></strike> --> <strike>_Staff S/W Technician_<sub>(2020-2022<sup>JUN</sup>)</sub></strike> --> <strike>_Senior S/W Technician_<sub>(2022-2023)</sub></strike> --> **_Software Engineer_<sub>(2024<sup>JAN</sup>)</sub>** 
+## Dev Details
+### Name: `Ravesh Ashok Naik`
 
+## Education
+### Masters in Computer Science and Applications
+- **Institution:** Christ University, Bangalore
+- **Duration:** 2022-2024
+- **Projects:** 
+  - [List your key projects]
+- **Achievements:** 
+  - [List your notable achievements]
+
+### Bachelor of Computer Applications (BCA)
+- **Institution:** Annamalai University, Tamil Nadu
+- **Duration:** 2018-2021
+- **Projects:** 
+  - [List your key projects]
+- **Achievements:** 
+  - [List your notable achievements]
+
+### Diploma in Computer Engineering
+- **Institution:** NTTF NEC, Bangalore
+- **Duration:** 2022-2024
+- **Projects:** 
+  - [List your key projects]
+- **Achievements:** 
+  - [List your notable achievements]
+
+## Professional Experience
+### Organization: **NI (Now part of Emerson)**
+
+#### Career Progression
+- **Intern** *(Jul 2017 - 2018)*
+- **Software Technician** *(2018-2019)*
+- **Staff Software Technician** *(2020 - Jun 2022)*
+- **Senior Software Technician** *(2022-2023)*
+- **Software Engineer** *(Jan 2024 - Present)*
