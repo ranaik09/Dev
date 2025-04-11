@@ -10,7 +10,7 @@
 - **Institution:** Christ University, Bangalore
 - **Duration:** 2022-2024
 - **Projects:** 
-  - [List your key projects]
+  - Research Paper on Optimized A* Algorithm.
 - **Achievements:** 
   - [List your notable achievements]
 
