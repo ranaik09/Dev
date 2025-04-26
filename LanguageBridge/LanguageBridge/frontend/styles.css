@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    padding: 0;
+    background: #f9f9f9;
+}
+h1, h2 {
+    color: #333;
+}
+input, textarea, button {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 300px;
+}
+.message {
+    background: #e0ffe0;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
