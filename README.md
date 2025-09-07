@@ -1,4 +1,1 @@
-Development projects are build here!!
-
-# Projects
-## Language Bridge
+Mostly working on Code more here: https://github.com/ranaik46 
