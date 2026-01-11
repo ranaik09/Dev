@@ -359,7 +359,7 @@ Consider starting with **Spec-Kit** for rapid prototyping, then migrating to **M
 1. [MCP Specification](https://spec.modelcontextprotocol.io/)
 2. [Anthropic MCP Documentation](https://modelcontextprotocol.io/)
 3. [MCP GitHub Repository](https://github.com/modelcontextprotocol)
-4. Spec-Kit Documentation (framework-specific)
+4. Spec-Kit Documentation (refer to specific implementation)
 5. AI Development Best Practices
 6. Protocol Design Patterns
 7. Template System Architectures
