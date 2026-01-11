@@ -11,6 +11,11 @@
 
 ### Linux OS and Kernel
 
-## Developement
+## Development
+
+### AI Development Tools
+1. [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) : Open protocol for standardizing AI application context
+2. [Spec-Kit](https://github.com) : Template-based framework for building AI applications
+3. [MCP vs Spec-Kit Comparison](Docs/Research/mcp-vs-spec-kit-comparison.md) : Comprehensive analysis of ease of use, build speed, and error prevention
 
 ## Testing
