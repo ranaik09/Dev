@@ -16,6 +16,8 @@
 ### AI Development Tools
 1. [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) : Open protocol for standardizing AI application context
 2. Spec-Kit : Template-based framework for building AI applications (refer to specific Spec-Kit implementation documentation)
-3. [MCP vs Spec-Kit Comparison](Docs/Research/mcp-vs-spec-kit-comparison.md) : Comprehensive analysis of ease of use, build speed, and error prevention
+3. [PromptLab](https://github.com/cognix-labs/promptlab) : Free, open-source prompt engineering platform for AI experimentation and development
+4. [MCP vs Spec-Kit Comparison](Docs/Research/mcp-vs-spec-kit-comparison.md) : Comprehensive analysis of ease of use, build speed, and error prevention
+5. [PromptLab for Spec-Kit Development](Docs/Research/promptlab-spec-kit-guide.md) : Guide on using PromptLab with Spec-Kit for AI development
 
 ## Testing
